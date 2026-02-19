@@ -1,0 +1,11 @@
+requests
+beautifulsoup4
+selenium
+scrapy
+fastapi
+uvicorn
+pydantic
+python-crontab
+supabase
+openai
+python-dotenv
