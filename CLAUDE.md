@@ -75,6 +75,9 @@ SUPABASE_ANON_KEY=
 - **Brand Voice**: `/home/evo/00_DNA/brand-identity/BRAND_VOICE.md`
 - **Workflows**: `/home/evo/00_DNA/workflows/`
 
+**Core Bible Documents**:
+1. `/home/evo/00_DNA/build-philosophy/Evolution_OS.md` - Technical architecture & operations manual
+
 **Key Files to Reference**:
 1. `/home/evo/00_DNA/AGENTS.core.md` - Universal agent rules
 2. `/home/evo/00_DNA/build-philosophy/Master_Config_2026.md` - Hardware and architecture specs
